@@ -9,5 +9,5 @@ This day covers HTML
 
 Key (what I learned):
 
-> tags
+> tags <br/>
 > Lists
